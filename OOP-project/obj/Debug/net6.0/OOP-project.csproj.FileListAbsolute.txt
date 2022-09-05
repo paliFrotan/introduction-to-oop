@@ -1,0 +1,15 @@
+C:\Users\palig\source\repos\introduction-to-oop\OOP-project\bin\Debug\net6.0\OOP-project.exe
+C:\Users\palig\source\repos\introduction-to-oop\OOP-project\bin\Debug\net6.0\OOP-project.deps.json
+C:\Users\palig\source\repos\introduction-to-oop\OOP-project\bin\Debug\net6.0\OOP-project.runtimeconfig.json
+C:\Users\palig\source\repos\introduction-to-oop\OOP-project\bin\Debug\net6.0\OOP-project.dll
+C:\Users\palig\source\repos\introduction-to-oop\OOP-project\bin\Debug\net6.0\OOP-project.pdb
+C:\Users\palig\source\repos\introduction-to-oop\OOP-project\obj\Debug\net6.0\OOP-project.csproj.AssemblyReference.cache
+C:\Users\palig\source\repos\introduction-to-oop\OOP-project\obj\Debug\net6.0\OOP-project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\palig\source\repos\introduction-to-oop\OOP-project\obj\Debug\net6.0\OOP-project.AssemblyInfoInputs.cache
+C:\Users\palig\source\repos\introduction-to-oop\OOP-project\obj\Debug\net6.0\OOP-project.AssemblyInfo.cs
+C:\Users\palig\source\repos\introduction-to-oop\OOP-project\obj\Debug\net6.0\OOP-project.csproj.CoreCompileInputs.cache
+C:\Users\palig\source\repos\introduction-to-oop\OOP-project\obj\Debug\net6.0\OOP-project.dll
+C:\Users\palig\source\repos\introduction-to-oop\OOP-project\obj\Debug\net6.0\refint\OOP-project.dll
+C:\Users\palig\source\repos\introduction-to-oop\OOP-project\obj\Debug\net6.0\OOP-project.pdb
+C:\Users\palig\source\repos\introduction-to-oop\OOP-project\obj\Debug\net6.0\OOP-project.genruntimeconfig.cache
+C:\Users\palig\source\repos\introduction-to-oop\OOP-project\obj\Debug\net6.0\ref\OOP-project.dll
